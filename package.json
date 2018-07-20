@@ -1,0 +1,19 @@
+{
+  "name": "idl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kargit1986/idl.git"
+  },
+  "author": "kshirvanyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kargit1986/idl/issues"
+  },
+  "homepage": "https://github.com/kargit1986/idl#readme"
+}
